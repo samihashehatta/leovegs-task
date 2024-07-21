@@ -3,7 +3,7 @@
 ## Running the app
 
 ```bash
-# development
+# This will install packages & create database & run migration & start application
 $ npm run start:all
 
 # watch mode
