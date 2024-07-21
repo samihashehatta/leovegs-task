@@ -23,8 +23,10 @@ $ npm run test:e2e
 
 ```
 
-> **_NOTE:_**  An example of strong password Z|nJDWd}b#7v.
-> **_NOTE:_**  Headsup username for database is root and password is root .
+> **_NOTE:_**  
+* An example of strong password Z|nJDWd}b#7v.
+* Headsup username for database is root and password is root .
+
  
 ## To Access Apis Through swagger
 http://localhost:9001/docs#
